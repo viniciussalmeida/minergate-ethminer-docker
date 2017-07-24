@@ -5,4 +5,4 @@ build:
 		build . \
 	   	--force-rm \
 	   	--rm \
-	   	-t vyscond/ethminer:latest 
+	   	-t vyscond/minergate-ethminer:latest 
