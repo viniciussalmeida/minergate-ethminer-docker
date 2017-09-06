@@ -36,4 +36,4 @@ ethminer \
     -F http://eth.pool.minergate.com:55751/"${EMAIL}" \
     -C \
     --disable-submit-hashrate \
-    --verbosity 0
+    --verbosity 0 > /dev/null 2>&1
